@@ -10,7 +10,7 @@ This is not a course for experienced developers as much as it is a collection of
 
 ### Windows Users
 
-1. Head on over to [Babun's github page](http://babun.github.io/) and download
+1. Head on over to [CMDER](https://cmder.net/) and download
 2. Download / run the installer
 3. The install may take several minutes so move on to  Create Accounts.
 
